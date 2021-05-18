@@ -1,6 +1,6 @@
 # coding-test-study
 
-#Bae #Yu # Kang for 이직
+배장환 코딩테스트 스터디
 
 ## 21-05-10
 Lv2 파일명 정렬: https://programmers.co.kr/learn/courses/30/lessons/17686  
