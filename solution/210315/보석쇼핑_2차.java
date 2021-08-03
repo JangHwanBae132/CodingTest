@@ -50,7 +50,7 @@ class Solution {
                 }
                 else{break;}
             }
-            -
+            
             //모든 종류의 gem이 있고 길이가 diff보다 작으면 answer 업데이트
             if(gemSet.size() == gemMap.size() && que.size() < diff){
                 diff = que.size();
