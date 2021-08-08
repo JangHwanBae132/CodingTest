@@ -21,12 +21,12 @@ Lv3 단속카메라 : https://programmers.co.kr/learn/courses/30/lessons/42884
 Lv3 정수 삼각형: https://programmers.co.kr/learn/courses/30/lessons/43105  
 Lv3 등교길 : https://programmers.co.kr/learn/courses/30/lessons/42898
 
-## 21-04-05
+## 21-04-05 & 파이썬: 21-08-08
 
 Lv2 수식 최대화: https://programmers.co.kr/learn/courses/30/lessons/67257  
 Lv3 N으로 표현 : https://programmers.co.kr/learn/courses/30/lessons/42895
 
-## 21-03-29 & 파이썬: 21-08-07
+## 21-03-29 & 파이썬: 21-08-07 (자물쇠와 열쇠는 파이썬 생략)
 
 Lv2 문자열 압축: https://programmers.co.kr/learn/courses/30/lessons/60057  
 Lv3 자물쇠와 열쇠 : https://programmers.co.kr/learn/courses/30/lessons/60059
