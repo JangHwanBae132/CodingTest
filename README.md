@@ -11,7 +11,7 @@ Lv2 N개의 최소공배수 : https://programmers.co.kr/learn/courses/30/lessons
 Lv2 메뉴 리뉴얼: https://programmers.co.kr/learn/courses/30/lessons/72411  
 Lv3 합승 택시 요금 : https://programmers.co.kr/learn/courses/30/lessons/72413
 
-## 21-04-21
+## 21-04-21 & 파이썬: 21-08-13
 
 Lv2 튜플: https://programmers.co.kr/learn/courses/30/lessons/64065  
 Lv3 단속카메라 : https://programmers.co.kr/learn/courses/30/lessons/42884
