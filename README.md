@@ -16,7 +16,7 @@ Lv3 합승 택시 요금 : https://programmers.co.kr/learn/courses/30/lessons/72
 Lv2 튜플: https://programmers.co.kr/learn/courses/30/lessons/64065  
 Lv3 단속카메라 : https://programmers.co.kr/learn/courses/30/lessons/42884
 
-## 21-04-14
+## 21-04-14 & 파이썬: 21-08-12
 
 Lv3 정수 삼각형: https://programmers.co.kr/learn/courses/30/lessons/43105  
 Lv3 등교길 : https://programmers.co.kr/learn/courses/30/lessons/42898
