@@ -6,7 +6,7 @@
 Lv2 파일명 정렬: https://programmers.co.kr/learn/courses/30/lessons/17686  
 Lv2 N개의 최소공배수 : https://programmers.co.kr/learn/courses/30/lessons/12953  
 
-## 21-04-27
+## 21-04-27 & 파이썬: 21-08-14
 
 Lv2 메뉴 리뉴얼: https://programmers.co.kr/learn/courses/30/lessons/72411  
 Lv3 합승 택시 요금 : https://programmers.co.kr/learn/courses/30/lessons/72413
