@@ -1,8 +1,8 @@
-# coding-test-study
+# coding-test-study 
 
 배장환 코딩테스트 스터디
 
-## 21-05-10
+## 21-05-10 & 파이썬 21-08-17
 Lv2 파일명 정렬: https://programmers.co.kr/learn/courses/30/lessons/17686  
 Lv2 N개의 최소공배수 : https://programmers.co.kr/learn/courses/30/lessons/12953  
 
