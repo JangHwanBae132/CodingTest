@@ -2,6 +2,9 @@
 
 배장환 코딩테스트 스터디
 
+## 파이썬(dfs) 21-08-21 
+백준 1260: https://www.acmicpc.net/problem/1260
+
 ## 파이썬 21-08-20
 Lv2 타겟 넘버: https://programmers.co.kr/learn/courses/30/lessons/43165
 
