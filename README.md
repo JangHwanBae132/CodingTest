@@ -3,7 +3,7 @@
 배장환 코딩테스트 스터디
 
 ## 파이썬 21-08-20
-Lv2 타겟 넘버: https://programmers.co.kr/learn/courses/30/lessons/43165 
+Lv2 타겟 넘버: https://programmers.co.kr/learn/courses/30/lessons/43165
 Lv3 네트워크: https://programmers.co.kr/learn/courses/30/lessons/43162
 
 ## 21-05-10 & 파이썬 21-08-17
