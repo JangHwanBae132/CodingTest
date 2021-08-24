@@ -2,6 +2,9 @@
 
 배장환 코딩테스트 스터디
 
+## 파이썬(정렬) 21-08-24
+Lv2 가장 큰 수: https://programmers.co.kr/learn/courses/30/lessons/42746
+
 ## 파이썬(bfs) 21-08-23 
 백준 1303: https://www.acmicpc.net/problem/1303
 
