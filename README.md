@@ -1,6 +1,12 @@
 # coding-test-study 
 
 배장환 코딩테스트 스터디
+## 파이썬 21-08-26
+Lv2 H-Index(정렬): https://programmers.co.kr/learn/courses/30/lessons/42747
+Lv2 카펫(완전탐색): https://programmers.co.kr/learn/courses/30/lessons/42842
+Lv2 기능개발(스택/큐): https://programmers.co.kr/learn/courses/30/lessons/42586
+Lv2 프린터(스택/큐): https://programmers.co.kr/learn/courses/30/lessons/42587
+Lv2 주식가격(스택/큐): https://programmers.co.kr/learn/courses/30/lessons/42584
 
 ## 파이썬(정렬) 21-08-24
 Lv2 가장 큰 수: https://programmers.co.kr/learn/courses/30/lessons/42746
