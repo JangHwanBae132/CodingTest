@@ -1,6 +1,9 @@
 # coding-test-study 
 
 배장환 코딩테스트 스터디
+## 파이썬 21-08-27
+Lv2 다리를지나가는트럭(스택/큐): https://programmers.co.kr/learn/courses/30/lessons/42583
+
 ## 파이썬 21-08-26
 Lv2 H-Index(정렬): https://programmers.co.kr/learn/courses/30/lessons/42747
 Lv2 카펫(완전탐색): https://programmers.co.kr/learn/courses/30/lessons/42842
