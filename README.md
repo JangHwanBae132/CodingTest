@@ -4,6 +4,8 @@
 ## 파이썬 21-08-28
 Lv3 디스크 컨트롤러(힙): https://programmers.co.kr/learn/courses/30/lessons/42627
 
+Lv3 이중우선순위큐(힙): https://programmers.co.kr/learn/courses/30/lessons/42628
+
 ## 파이썬 21-08-28
 Lv2 더맵게(힙): https://programmers.co.kr/learn/courses/30/lessons/42626
 
