@@ -1,6 +1,12 @@
 # coding-test-study 
 
 배장환 코딩테스트 스터디
+## 파이썬 21-08-28
+Lv3 디스크 컨트롤러(힙): https://programmers.co.kr/learn/courses/30/lessons/42627
+
+## 파이썬 21-08-28
+Lv2 더맵게(힙): https://programmers.co.kr/learn/courses/30/lessons/42626
+
 ## 파이썬 21-08-27
 Lv2 다리를지나가는트럭(스택/큐): https://programmers.co.kr/learn/courses/30/lessons/42583
 
