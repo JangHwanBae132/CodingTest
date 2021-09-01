@@ -1,6 +1,9 @@
 # coding-test-study 
 
 배장환 코딩테스트 스터디
+## 파이썬 21-08-30
+Lv2 큰 수 만들기(탐욕법): https://programmers.co.kr/learn/courses/30/lessons/42883
+
 ## 파이썬 21-08-28
 Lv3 디스크 컨트롤러(힙): https://programmers.co.kr/learn/courses/30/lessons/42627
 
