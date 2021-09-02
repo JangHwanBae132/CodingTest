@@ -2,7 +2,7 @@
 
 배장환 코딩테스트 스터디
 
-## 파이썬 21-09-2
+## 파이썬 21-09-02
 Lv2 오픈채팅방: https://programmers.co.kr/learn/courses/30/lessons/42888
 
 Lv3 [1차]추석트래픽: https://programmers.co.kr/learn/courses/30/lessons/17676
