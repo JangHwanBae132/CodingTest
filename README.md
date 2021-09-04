@@ -2,6 +2,9 @@
 
 배장환 코딩테스트 스터디
 
+## 파이썬 21-09-03
+Lv3 위클리챌린지3주차: https://programmers.co.kr/learn/courses/30/lessons/84021
+
 ## 파이썬 21-09-02
 Lv2 멀쩡한 사각형: https://programmers.co.kr/learn/courses/30/lessons/62048
 
