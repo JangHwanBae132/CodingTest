@@ -5,6 +5,8 @@
 ## 파이썬 21-09-03
 Lv3 위클리챌린지3주차: https://programmers.co.kr/learn/courses/30/lessons/84021
 
+Lv2 행렬테두리회전하기: https://programmers.co.kr/learn/courses/30/lessons/77485
+
 ## 파이썬 21-09-02
 Lv2 멀쩡한 사각형: https://programmers.co.kr/learn/courses/30/lessons/62048
 
