@@ -5,6 +5,8 @@
 ## 파이썬 21-09-06
 Lv2 괄호 변환: https://programmers.co.kr/learn/courses/30/lessons/60058
 
+Lv2 [1차]뉴스 클러스터링: https://programmers.co.kr/learn/courses/30/lessons/17677
+
 ## 파이썬 21-09-04
 Lv3 위클리챌린지3주차: https://programmers.co.kr/learn/courses/30/lessons/84021
 
