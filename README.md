@@ -2,6 +2,11 @@
 
 배장환 코딩테스트 스터디
 
+## 파이썬 21-09-08
+Lv2 게임 맵 최단거리: https://programmers.co.kr/learn/courses/30/lessons/1844
+
+Lv2 예상 대진표: https://programmers.co.kr/learn/courses/30/lessons/12985
+
 ## 파이썬 21-09-06
 Lv2 괄호 변환: https://programmers.co.kr/learn/courses/30/lessons/60058
 
