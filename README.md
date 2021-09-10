@@ -2,6 +2,9 @@
 
 배장환 코딩테스트 스터디
 
+## 파이썬 21-09-10
+Lv3 다단계 칫솔 판매: https://programmers.co.kr/learn/courses/30/lessons/77486
+
 ## 파이썬 21-09-08
 Lv2 게임 맵 최단거리: https://programmers.co.kr/learn/courses/30/lessons/1844
 
