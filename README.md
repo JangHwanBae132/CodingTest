@@ -5,7 +5,7 @@
 ## 파이썬 21-09-11
 Lv2 후보키: https://programmers.co.kr/learn/courses/30/lessons/42890
 
-Lv3 [1차 셔틀버스]:https://programmers.co.kr/learn/courses/30/lessons/17678
+Lv3 [1차] 셔틀버스:https://programmers.co.kr/learn/courses/30/lessons/17678
 
 ## 파이썬 21-09-10
 Lv3 다단계 칫솔 판매: https://programmers.co.kr/learn/courses/30/lessons/77486
