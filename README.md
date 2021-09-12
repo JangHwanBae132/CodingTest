@@ -5,6 +5,8 @@
 ## 파이썬 21-09-12
 Lv2 괄호 회전하기: https://programmers.co.kr/learn/courses/30/lessons/76502
 
+Lv2 배달: https://programmers.co.kr/learn/courses/30/lessons/12978
+
 ## 파이썬 21-09-11
 Lv2 후보키: https://programmers.co.kr/learn/courses/30/lessons/42890
 
