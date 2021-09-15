@@ -2,6 +2,11 @@
 
 배장환 코딩테스트 스터디
 
+## 파이썬 21-09-15
+Lv3 2xn 타일링: https://programmers.co.kr/learn/courses/30/lessons/12900
+
+Lv2 [1차] 프렌즈4블록: https://programmers.co.kr/learn/courses/30/lessons/17679
+
 ## 파이썬 21-09-12
 Lv2 괄호 회전하기: https://programmers.co.kr/learn/courses/30/lessons/76502
 
