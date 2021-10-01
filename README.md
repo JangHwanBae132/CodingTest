@@ -2,11 +2,17 @@
 
 배장환 코딩테스트 스터디
 
+
+
+## 파이썬 21-10-01
+[다시] 단어변환: https://programmers.co.kr/learn/courses/30/lessons/43163       
+[다시] 섬연결하기: https://programmers.co.kr/learn/courses/30/lessons/42861    
+
+
 ## 파이썬 21-09-30
 [다시] 입국심사: https://programmers.co.kr/learn/courses/30/lessons/43238       
 [다시] 가장 먼 노드: https://programmers.co.kr/learn/courses/30/lessons/49189     
-[다시] 입국심사: https://programmers.co.kr/learn/courses/30/lessons/49191   
-
+[다시] 순위: https://programmers.co.kr/learn/courses/30/lessons/49191   
 
 
 ## 파이썬 21-09-15
