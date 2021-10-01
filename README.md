@@ -96,7 +96,7 @@ Lv2 가장 큰 수: https://programmers.co.kr/learn/courses/30/lessons/42746
 ## 파이썬(bfs & dfs) 21-08-21 
 백준 1260: https://www.acmicpc.net/problem/1260
 
-## 파이썬 21-08-20
+## 자바 21-10-01 & 파이썬 21-08-20
 Lv2 타겟 넘버: https://programmers.co.kr/learn/courses/30/lessons/43165
 
 Lv2 네트워크: https://programmers.co.kr/learn/courses/30/lessons/43162
