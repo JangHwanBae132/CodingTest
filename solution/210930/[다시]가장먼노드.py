@@ -10,21 +10,14 @@ def solution(n, vertex):
     queue.append((0,0))
 
     for (i, j) in vertex:
-        if i-1 in graph:
-            graph[i-1].append(j-1)
-        else:
-            graph[i-1] = [j-1]
-
-        if j-1 in graph:
-            graph[j-1].append(i-1)
-        else:
-            graph[j-1] = [i-1]
+        graph[i-1]= graph.get(i-1, [])+[j-1]
+        graph[j-1]= graph.get(j-1, [])+[i-1]
 
 
     while queue:
         current_destination, current_distance = queue.popleft()
 
-        if distances[current_destination] <current_distance:
+        if distances[current_destination] < current_distance:
             continue
 
         for new_destination in graph[current_destination]:
