@@ -87,7 +87,7 @@ Lv2 프린터(스택/큐): https://programmers.co.kr/learn/courses/30/lessons/42
 
 Lv2 주식가격(스택/큐): https://programmers.co.kr/learn/courses/30/lessons/42584
 
-## 파이썬(정렬) 21-08-24
+## 자바 21-10-01 & 파이썬(정렬) 21-08-24
 Lv2 가장 큰 수: https://programmers.co.kr/learn/courses/30/lessons/42746
 
 ## 파이썬(bfs) 21-08-23 
