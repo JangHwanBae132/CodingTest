@@ -65,7 +65,7 @@ Lv3 [1차]추석트래픽: https://programmers.co.kr/learn/courses/30/lessons/17
 ## 파이썬 21-08-30
 Lv2 큰 수 만들기(탐욕법): https://programmers.co.kr/learn/courses/30/lessons/42883
 
-## 파이썬 21-08-28
+## 자바 21-10-02 파이썬 21-08-28
 Lv3 디스크 컨트롤러(힙): https://programmers.co.kr/learn/courses/30/lessons/42627
 
 Lv3 이중우선순위큐(힙): https://programmers.co.kr/learn/courses/30/lessons/42628
