@@ -57,7 +57,7 @@ Lv2 짝지어 제거하기: https://programmers.co.kr/learn/courses/30/lessons/1
 
 Lv2 위클리챌린지5주차: https://programmers.co.kr/learn/courses/30/lessons/84512
 
-## 파이썬 21-09-02
+## 자바 21-10-07(오픈채팅방) 파이썬 21-09-02
 Lv2 오픈채팅방: https://programmers.co.kr/learn/courses/30/lessons/42888
 
 Lv3 [1차]추석트래픽: https://programmers.co.kr/learn/courses/30/lessons/17676
