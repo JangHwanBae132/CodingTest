@@ -3,7 +3,8 @@
 배장환 코딩테스트 스터디
 
 ## 자바 21-10-18
-기둥과 보 설치: https://programmers.co.kr/learn/courses/30/lessons/60061
+기둥과 보 설치: https://programmers.co.kr/learn/courses/30/lessons/60061      
+[1차]캐시: https://programmers.co.kr/learn/courses/30/lessons/17680
 
 ## 파이썬 21-10-01
 [다시] 단어변환: https://programmers.co.kr/learn/courses/30/lessons/43163       
