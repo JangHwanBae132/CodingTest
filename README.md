@@ -55,7 +55,7 @@ Lv2 행렬테두리회전하기: https://programmers.co.kr/learn/courses/30/less
 ## 파이썬 21-09-03
 Lv2 멀쩡한 사각형: https://programmers.co.kr/learn/courses/30/lessons/62048
 
-Lv2 짝지어 제거하기: https://programmers.co.kr/learn/courses/30/lessons/17676
+Lv2 짝지어 제거하기: https://programmers.co.kr/learn/courses/30/lessons/12973
 
 Lv2 위클리챌린지5주차: https://programmers.co.kr/learn/courses/30/lessons/84512
 
